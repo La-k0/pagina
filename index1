@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>pagina 2</title>
+</head>
+<body>
+    <h1>titutlo :P</h1>
+    <h2>subtitulo :P</h2>
+    <p>texto :P</p>
+    <h3>lista de links :P</h3>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
+    <a href="index.html">regresar a index</a>
+</body>
+</html>
